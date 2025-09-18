@@ -9,7 +9,7 @@ It includes tables for **Authors, Books, Customers, Orders, and OrderDetails**, 
 - **schema.sql** → Database schema (tables & relationships)  
 - **data.sql** → Sample data for testing  
 - **queries.sql** → Example queries for insights  
-
+- **New_features.sql** → PL/SQL queries
 ---
 
 ## 🚀 Features
